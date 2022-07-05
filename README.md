@@ -1,7 +1,7 @@
 ### Olá Pessoal 
 Graduando Sistemas de Informação na UNIUBE, apaixonado por programação e segurança da informação. :computer:
 
-Desenvolvedor Front-End: React.js, Next.js, Typescript, Javascript, Redux, Styled Components, Sass, Atomic Design.
+<b>Desenvolvedor Front-End React:</b> React.js, Next.js, Typescript, Javascript, Redux, Styled Components, Sass, Atomic Design.
 
 <b>Certificações:</b>
   <br/>Desenvolvedor Front-End: Alura, 
